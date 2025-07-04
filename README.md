@@ -54,4 +54,4 @@ Common built-in fonts:
 - ASCII art and sponsorship message print to server console
 
 ## License
-MIT (or specify your own) 
+Do What The Fuck You Want To Public License
