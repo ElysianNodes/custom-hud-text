@@ -17,6 +17,9 @@ Display custom text on your HUD with configurable color, position, and font. Inc
 ## Configuration
 You can configure the addon in two ways:
 
+## Support
+We provide support at https://discord.gg/XmWJssZmjc
+
 ### 1. Config File
 Edit `lua/autorun/custom_text_config.lua`:
 ```lua
